@@ -1,0 +1,14 @@
+body{
+  background: #DED8D8;
+}
+.con{
+  text-align: center;
+}
+
+.tooltip{
+  position: absolute;
+  background-color: yellow;
+  padding: 15px;				
+  font: italic bold 12px Georgia, serif;
+  border-raduis: 5px;
+}
